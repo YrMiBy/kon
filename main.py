@@ -1,2 +1,2 @@
-name = 'Ivan'
-age = 20
+name = 'Marya'
+email = 'm@gmail.com'
